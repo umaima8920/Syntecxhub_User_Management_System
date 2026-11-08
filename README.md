@@ -2,7 +2,7 @@
 
 A RESTful API for managing users, built with Node.js, Express, MongoDB and Mongoose. It supports full CRUD operations and secures its endpoints with Basic Authentication.
 
-Built for the SYNTECXHUB Web Development Internship (Week 2).
+
 
 ## Features
 - Create, read, update and delete users
